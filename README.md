@@ -1,5 +1,10 @@
 # Camera-based Water Stage and Discharge Prediction with Machine Learning
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71342016/208263381-18084202-96fe-4ea0-aeed-4ef29920a811.jpg" width="350" />
+  <img src="https://user-images.githubusercontent.com/71342016/208263383-03a21b1a-2922-437c-8918-067bc1d9b194.png" width="350" /> 
+</p>
+
 ## Objective
 Find a model that predicts the stage and discharge of water in a body of water through the use of a numeric database and images of the site from the same angle over the years.
 
